@@ -1,0 +1,3 @@
+Hello! This is JACK. 
+Learning Python backend. 
+New line added.
