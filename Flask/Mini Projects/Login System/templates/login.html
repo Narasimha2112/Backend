@@ -1,0 +1,10 @@
+<h2>Login Page</h2>
+
+<form method="post">
+    <input name="user", placeholder="Enter Username"><br><br>
+    <button type="submit">Login</button>
+</form>
+
+{% for msg in get_flashed_messages() %}
+    <p style="color: red;">{{ msg }}</p>
+{% endfor %}

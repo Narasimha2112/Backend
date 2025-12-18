@@ -1,0 +1,9 @@
+MINI PROJECT – Login System (Sessions + Cookies + Flash + Forms)
+Project Features:
+
+✔ User Login Form
+✔ Cookie storing username
+✔ Session tracking
+✔ Flash messages
+✔ Redirects
+✔ Logout

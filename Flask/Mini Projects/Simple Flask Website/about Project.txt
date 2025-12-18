@@ -1,0 +1,8 @@
+Simple Flask Website
+✔ Features:
+            Home Page
+            About Page
+            Dynamic User Page
+            Form handling
+            Template rendering
+            CSS Support
