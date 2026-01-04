@@ -1,7 +1,4 @@
-import bcrypt
+import jwt
+import datetime
 
-password = "mypassword".encode()
-
-hashed = bcrypt.hashpw(password, bcrypt.gensalt())
-
-print(hashed)
+SE
